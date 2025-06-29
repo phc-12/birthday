@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 🎉 Birthday Greeting Webpage 
 
 [Demo](https://fajarghifar.github.io/happybirthday/)
@@ -37,3 +38,6 @@ If you have any ideas to make it more interesting, please submit a pull request 
 > Youtube [@fajarghifar](https://www.youtube.com/@fajarghifar/) &nbsp;&middot;&nbsp;
 > Instagram [@fajarghifar](https://instagram.com/fajarghifar) &nbsp;&middot;&nbsp;
 > Linkedin [@fajarghifar](https://www.linkedin.com/in/fajarghifar/)
+=======
+# birthday
+>>>>>>> 145f03068a51bcbd00a730e85346db931055893c
