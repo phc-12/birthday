@@ -5,6 +5,17 @@ html {
 body {
   font-family: 'Poppins', sans-serif;
   margin: 0;
+  min-height: 100vh;
+  /* Rainbow animated background */
+  background: linear-gradient(270deg, #ff6ec4, #7873f5, #42e695, #3bb2b8, #f9ea8f, #ff6ec4);
+  background-size: 1200% 1200%;
+  animation: rainbowBG 45s ease infinite;
+}
+
+@keyframes rainbowBG {
+  0% {background-position:0% 50%}
+  50% {background-position:100% 50%}
+  100% {background-position:0% 50%}
 }
 
 .song {
